@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url('https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/cosmetics/cosmeticsdesign-asia.com/headlines/formulation-science/natural-and-organic-beauty-one-of-the-key-drivers-of-indonesia-s-personal-care-market/9440813-1-eng-GB/Natural-and-organic-beauty-one-of-the-key-drivers-of-Indonesia-s-personal-care-market_wrbm_large.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+h1{
+    font-family: cursive;
+    font-size: 50px;
+    text-align: center;
+    margin: 40px;
+}
+.content{
+    font-family: cursive;
+    text-align: center;
+    background:rgba(253, 247, 247, 0.4);
+    margin: 50px 500px 0px 500px;
+    display: flex;
+    flex-direction: column;
+    padding:20px;
+    border-radius: 0 70px 0 0;
+    border: solid 0.5px black;
+    box-shadow: 5px 10px #0f0e0e91;
+}
+.content input{
+    font-family: cursive;
+    font-size: 20px;
+    width: 500px;
+    align-items: center;
+    padding: 15px;
+    margin-top: 30px;
+}
+
+.text textarea{
+    font-family: cursive;
+    font-size: 20px;
+    margin: 30px;
+    height: 300px;
+    width: 530px;
+    text-emphasis: 7px;
+}
+
+.file input{
+    font-family: cursive;
+    font-size: 20px;
+    /* text-align: center; */
+    margin-left: 300px;
+}
